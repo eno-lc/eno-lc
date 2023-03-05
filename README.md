@@ -1,9 +1,11 @@
 <h2 align="left">Hi 👋! My name is Enis Halilaj and I'm a Software Engineer/h2>
   
-* 🌍  I'm based in Prishtine, Kosove
-* ✉️  You can contact me at [enishalilajjj@gmail.com](mailto:enishalilajjj@gmail.com)
 
 ###
+  
+* 🌍  I'm based in Prishtine, Kosove
+* ✉️  You can contact me at [enishalilajjj@gmail.com](mailto:enishalilajjj@gmail.com)
+  
 <p> 
 Engineering enthusiast committed to implement and maintain system-based interfaces and components. Skillful in writing well designed, testable code and designing low latency applications. Hardworking and passionate with strong organizational skills. Ready to help teams achieve company goals. Excellent time management and problem-solving skills. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. </p>
 
