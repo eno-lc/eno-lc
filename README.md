@@ -71,7 +71,6 @@ Engineering enthusiast committed to implement and maintain system-based interfac
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eno-lc/eno-lc/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
