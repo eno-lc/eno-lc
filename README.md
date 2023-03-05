@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Enis Halilaj and I'm a Software Engineer from Kosovo</h2>
+<h2 align="left">Hi 👋! My name is Enis Halilaj and I'm a Software Engineer/h2>
+  
+* 🌍  I'm based in Prishtine, Kosove
+* ✉️  You can contact me at [enishalilajjj@gmail.com](mailto:enishalilajjj@gmail.com)
 
 ###
 <p> 
