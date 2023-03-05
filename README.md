@@ -1,7 +1,10 @@
 <h2 align="left">Hi 👋! My name is Enis Halilaj and I'm a Software Engineer from Kosovo</h2>
 
 ###
+<p> 
+Engineering enthusiast committed to implement and maintain system-based interfaces and components. Skillful in writing well designed, testable code and designing low latency applications. Hardworking and passionate with strong organizational skills. Ready to help teams achieve company goals. Excellent time management and problem-solving skills. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. </p>
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=eno-lc" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eno-lc" height="150" alt="languages graph"  />
