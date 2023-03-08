@@ -7,7 +7,7 @@
 * ✉️  You can contact me at [enishalilajjj@gmail.com](mailto:enishalilajjj@gmail.com)
   
 <p> 
-Engineering enthusiast committed to implement and maintain system-based interfaces and components. Skillful in writing well designed, testable code and designing low latency applications. Hardworking and passionate with strong organizational skills. Ready to help teams achieve company goals. Excellent time management and problem-solving skills. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. </p>
+A passionate engineering enthusiast with a strong commitment to implementing and maintaining system-based interfaces and components, with excellent skills in writing well-designed, testable code and designing low latency applications. With a hardworking and organized approach, supporting teams in achieving their goals.</p>
 
 ###
 <div align="center">
