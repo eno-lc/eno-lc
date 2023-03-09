@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋! My name is Enis Halilaj and I'm a Software Engineer</h2>
   
-
 ###
   
 * 🌍  I'm based in Prishtine, Kosove
