@@ -2,7 +2,7 @@
   
 ###
   
-* 🌍  I'm based in Prishtine, Kosove.
+* 🌍  I'm based in Prishtine, Kosove
 * ✉️  You can contact me at [enishalilajjj@gmail.com](mailto:enishalilajjj@gmail.com)
   
 <p> 
