@@ -14,12 +14,6 @@ A passionate engineering enthusiast with a strong commitment to implementing and
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=eno-lc" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/wh-h71dxUP4AAAAM/endless-hallways-forever-video-game.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
