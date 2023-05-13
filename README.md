@@ -67,7 +67,6 @@ A passionate engineering enthusiast with a strong commitment to implementing and
 
 <br clear="both">
 
-
 ###
 
 <div align="center">
